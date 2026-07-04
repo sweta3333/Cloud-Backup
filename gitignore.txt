@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+venv/
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+DEMO_SCRIPT.md
+VIDEO_DEMO_SCRIPT.md
+setup_scheduler.ps1
+schedule_backup.bat
+
